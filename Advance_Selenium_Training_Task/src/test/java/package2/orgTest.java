@@ -21,6 +21,6 @@ public class orgTest {
 	
 	@Test
 	public void deleteOrgTest() {
-		System.out.println("Execution of modify OrgTest");
+		System.out.println("Execution of delete OrgTest");
 	}
 }
