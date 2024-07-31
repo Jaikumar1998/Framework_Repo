@@ -12,6 +12,11 @@ public class orgTest {
 	@Test
 	public void modifyOrgTest() {
 		System.out.println("Execution of modify OrgTest");
+		String Url = System.getProperty("url");
+		String Browser = System.getProperty("browser");
+		
+		System.out.println(Url);
+		System.out.println(Browser);
 	}
 	
 	@Test
